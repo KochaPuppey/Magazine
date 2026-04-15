@@ -1,0 +1,10 @@
+.container {
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  position: sticky;
+  max-width: 95%;
+  top:0;
+  z-index: 10;
+}
